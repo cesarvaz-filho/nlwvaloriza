@@ -4,7 +4,7 @@
 
 # Status
 <h4 align="center"> 
-	🚧  OLX API 🚀 Concluído  🚧
+	🚧  NLW Valoriza 🚀 Concluído  🚧
 </h4>
 
 # Features
